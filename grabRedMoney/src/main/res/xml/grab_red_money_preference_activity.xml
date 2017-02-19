@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="抢红包设置" 
+        >
+        <SwitchPreference
+            android:key="grabRedMoneyMode"
+            android:summaryOff="如果你在聊天界面,静静将不会为你抢红包"
+            android:summaryOn="无论你在那里，静静都会为你第一时间点击红包"
+            android:title="超抢模式" />
+        <SwitchPreference
+            android:key="grabRedMoneyYesReply"
+            android:summaryOff="抢到了红包，静静将不会为你自动回复"
+            android:summaryOn="抢到了红包，静静将会为你自动回复"
+            android:title="抢到红包" />
+        <SwitchPreference
+            android:key="grabRedMoneyNoReply"
+            android:summaryOff="抢到了红包，静静将不会为你自动回复"
+            android:summaryOn="抢到了红包，静静将会为你自动回复"
+            android:title="没抢到红包" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="声音设置" >
+        <SwitchPreference
+            android:key="isOpenFindRedMOneySound"
+            android:summary="发现红包是否播放提示音"
+            android:title="发现红包" />
+        <SwitchPreference
+            android:key="isOpenYesGrabRedMoneySound"
+            android:summary="抢到红包是否播放提示音"
+            android:title="抢到红包" />
+        <SwitchPreference
+            android:key="isOpenNoGrabRedMoneySound"
+            android:summary="没抢到红包是否播放提示音"
+            android:title="没抢到红包" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

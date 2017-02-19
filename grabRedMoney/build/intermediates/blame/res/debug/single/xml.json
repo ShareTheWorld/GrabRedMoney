@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\developer\\workspace\\android_studio_workspace\\GrabRedMoney\\grabRedMoney\\build\\intermediates\\res\\merged\\debug\\xml\\accessibility.xml",
+        "source": "D:\\developer\\workspace\\android_studio_workspace\\GrabRedMoney\\grabRedMoney\\src\\main\\res\\xml\\accessibility.xml"
+    },
+    {
+        "merged": "D:\\developer\\workspace\\android_studio_workspace\\GrabRedMoney\\grabRedMoney\\build\\intermediates\\res\\merged\\debug\\xml\\grab_red_money_preference_activity.xml",
+        "source": "D:\\developer\\workspace\\android_studio_workspace\\GrabRedMoney\\grabRedMoney\\src\\main\\res\\xml\\grab_red_money_preference_activity.xml"
+    }
+]

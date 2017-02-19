@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\developer\\workspace\\android_studio_workspace\\GrabRedMoney\\grabRedMoney\\build\\intermediates\\res\\merged\\debug\\raw\\grab_red_money_result_no.mp3",
+        "source": "D:\\developer\\workspace\\android_studio_workspace\\GrabRedMoney\\grabRedMoney\\src\\main\\res\\raw\\grab_red_money_result_no.mp3"
+    },
+    {
+        "merged": "D:\\developer\\workspace\\android_studio_workspace\\GrabRedMoney\\grabRedMoney\\build\\intermediates\\res\\merged\\debug\\raw\\find_red_money_sound.mp3",
+        "source": "D:\\developer\\workspace\\android_studio_workspace\\GrabRedMoney\\grabRedMoney\\src\\main\\res\\raw\\find_red_money_sound.mp3"
+    },
+    {
+        "merged": "D:\\developer\\workspace\\android_studio_workspace\\GrabRedMoney\\grabRedMoney\\build\\intermediates\\res\\merged\\debug\\raw\\grab_red_money_result_yes.mp3",
+        "source": "D:\\developer\\workspace\\android_studio_workspace\\GrabRedMoney\\grabRedMoney\\src\\main\\res\\raw\\grab_red_money_result_yes.mp3"
+    }
+]

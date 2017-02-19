@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="1205785138313"
+    token="-4757459623169303239" >
+
+    <task
+        name="javac"
+        duration="2758" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="45" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="D:\developer\workspace\android_studio_workspace\GrabRedMoney\grabRedMoney\build\outputs\apk\grabRedMoney-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1205785138313" >
+        <artifact
+            location="D:\developer\workspace\android_studio_workspace\GrabRedMoney\grabRedMoney\build\outputs\apk\grabRedMoney-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">静静抢红包</string>
+    <string name="core_service_name">静静抢红包&#160;&#160;&#160;&#160;★★★&#160;&#160;开启&#160;&#160;★★&#160;&#160;抢红包</string>
+    <string name="red_money_record">红包记录</string>
+    <string name="red_money_reply_edit">编辑回复语</string>
+    <string name="name_of_help_activity">帮助</string>
+    <string name="perference_activity">  设置</string>
+    <string name="action_help">help</string>
+    <string name="action_add">add</string>
+    <string name="action_setting">setting</string>
+    
+    <string name="grab_red_money_description">功能：静静抢红包\n\n&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        静静在等红包这么多年，终于上线了，静静就坐在手机后面盯着通知栏和微信界面信息，
+        看见红包了就马上动起手来，并且用最快的速度打开和抢到红包。
+        \n\n</string>
+    <!-- (注：静静抢红包保证不会收集用户的个人信息和隐私，请您放心使用) -->
+    
+    
+    <string name="help_description">原理篇:\n\n静静抢红包采用的是安卓系统提供的AccessibilityService（无障碍服务、辅助服务）来工作的，所以需要你同意开启这个服务静静才能工作。
+	    静静会接收AccessibilityService服务发来的通知，当通知（微信通知）中有红包的时候，静静会打开微信，进入聊天界面，点击红包，拆开红包，这就是静静的工作方式。\n\n 
+	    设置篇:\n\n① 超强模式：开启超强模式过后，无论你在不在聊天界面，静静都会为你第一时间点开红包。反之，如果你在聊天界面，静静就不会和你抢 抢到红包的幸福感了。\n
+	   ② 自动回复：自动回复分为两种，当你抢到红包的时候回复和当你没有抢到红包的时候回复，这两种回复的文字你可以到“编辑回复语”中去设置， 如果你在“回复语”中使用了‘n’和‘m’这两个字母，n（name）和m（money）将会被自动替换为抢的谁的红包的名字和抢到的金额\n    注：此功能只支持5.0及以上的系统\n\n
+	   性能篇:\n\n① 提高服务稳定性：把静静抢红包锁定在后台\n② 快速发现红包：打开微信的消息通知\n③ 提高抢红包的速度：把微信锁定在后台\n④ 手机放在包里也能抢:去掉手机密码，静静就能够在有红包的时候唤醒你的手机(因为程序没有办法获取你的密码)\n\n
+	   联系方式：\n\n如果你发现任何问题请联系我们\n邮箱：jjqhb.fht@qq.com\nqq：318112035</string>
+
+</resources>
